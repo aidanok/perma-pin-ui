@@ -1,4 +1,17 @@
-# perma-ipfs-ui
+# Perma-Pin UI 
+
+Simple Vue based UI for Perma-Pin API  
+
+### Related To
+
+- [https://github.com/aokis/perma-pin-http/](https://github.com/aokis/perma-pin-http/)
+- [https://github.com/aokis/perma-pin-lib/](https://github.com/aokis/perma-pin-lib/)
+
+
+You *probably* just want to visit the public service & api: 
+[https://perma-pin.bloc.space](https://perma-pin.bloc.space)
+
+
 
 ## Project setup
 ```
