@@ -4,8 +4,8 @@ Simple Vue based UI for Perma-Pin API
 
 ### Related To
 
-- [https://github.com/aokis/perma-pin-http/](https://github.com/aokis/perma-pin-http/)
-- [https://github.com/aokis/perma-pin-lib/](https://github.com/aokis/perma-pin-lib/)
+- [https://github.com/aokisok/perma-pin-http/](https://github.com/aokisok/perma-pin-http/)
+- [https://github.com/aokisok/perma-pin-lib/](https://github.com/aokisok/perma-pin-lib/)
 
 
 You *probably* just want to visit the public service & api: 
