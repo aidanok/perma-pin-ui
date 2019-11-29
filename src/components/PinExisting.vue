@@ -2,7 +2,7 @@
   <div class="pin-existing">
     <p> <strong>Pin Existing </strong> </p>
     <p>
-      If this CID has already been pinned it will be not be re-uploaded and you will be given the existing Arweave link.
+      If this CID has already been permafiyed it will be not be re-uploaded and you will be given the existing Arweave link.
     </p>
 
     <input type="text" placeholder="IPFS CID" v-model="cid">
